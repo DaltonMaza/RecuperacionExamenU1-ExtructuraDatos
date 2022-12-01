@@ -1,0 +1,21 @@
+{
+  "exList": {
+    "cabecera": {
+      "dato": {
+        "expresion": "(2){8}",
+        "esCorrecta": true
+      },
+      "siguiente": {
+        "dato": {
+          "expresion": "((2)(4))"
+        },
+        "siguiente": {
+          "dato": {
+            "expresion": "{(26)(8)}"
+          }
+        }
+      }
+    },
+    "tamanio": 3
+  }
+}
